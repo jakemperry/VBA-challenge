@@ -1,0 +1,4 @@
+#Ignore excel files
+*.xlsx
+*.xlsm
+*.xls
